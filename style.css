@@ -41,6 +41,9 @@ footer{
     color: rgb(255, 255, 255);
     padding: 0.5em; /* EM square */
     margin-top:16em; 
+    padding: 1ex 1em;
+   /* margin: 0;*/
+    grid-column: span 6;
     }
 
 footer a{
