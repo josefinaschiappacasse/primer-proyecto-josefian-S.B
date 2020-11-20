@@ -1,3 +1,5 @@
+//no recuerdo muy bien de donde saqué este codigo, pero no es mio
+
 const barWidth = 20;
 let lastBar = -1;
 let sketch;

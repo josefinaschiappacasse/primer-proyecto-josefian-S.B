@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap'); 
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Source+Sans+Pro:wght@300&display=swap');
 /*'https://fonts.googleapis.com/css2?family=Anton&display=swap'*/
+
 body{
   background-color:white;
   font-size: 22px;
@@ -11,6 +12,7 @@ body{
   margin: 0;
   padding: 0;
   line-height: 150%;
+  
 }
 
 header{ 
@@ -47,10 +49,7 @@ footer{
     color: rgb(255, 255, 255);
     padding: 0.5em; /* EM square */
     margin-top:0em;
-   
     }
-   
-   
 
 footer a{
     color: rgb(255, 255, 255);
