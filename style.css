@@ -10,6 +10,7 @@ body{
   font-family: 'Source Sans Pro';
   margin: 0;
   padding: 100;
+  width: 100%;
 }
 
 header{ 
@@ -25,7 +26,7 @@ header{
 #container{
   margin: 200px;
   width: 80%;
-  max-width: 700px;
+  width: 100%;
   padding: 5px 80px;
  }
 
