@@ -8,9 +8,12 @@ body{
   background-color:white;
   font-size: 22px;
   font-family: 'Source Sans Pro';
-  margin: 0;
+  /*margin: 0;
   padding: 100;
-  width: 100%;
+  width: 100%;*/
+  margin: 0;
+  padding: 0;
+  line-height: 150%;
 }
 
 header{ 
@@ -20,11 +23,9 @@ header{
   padding: 4px 30px;
   margin-top: 0em;
   background-color:rgb(0, 0, 0);
- 
 }
 
 #container{
-  
   width: 100%;
   padding: 5px 80px;
  }
@@ -49,7 +50,10 @@ footer{
     color: rgb(255, 255, 255);
     padding: 0.5em; /* EM square */
     margin-top:0em;
+   
     }
+   
+   
 
 footer a{
     color: rgb(255, 255, 255);
