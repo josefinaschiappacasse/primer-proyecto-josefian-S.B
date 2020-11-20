@@ -34,8 +34,13 @@ h1{
 
 li{
   font-size: 17px;
-
 }
+
+#p5{
+  width: 100%;
+  height: 100%;
+}
+
 p{color:rgb(0, 0, 0); 
   padding: 5px 80px;}
 
@@ -46,7 +51,7 @@ footer{
     background-color:rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     padding: 0.5em; /* EM square */
-    margin-top:16em; 
+    margin-top:0em; 
     
   
     }
