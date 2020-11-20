@@ -20,7 +20,7 @@ header{
   padding: 4px 30px;
   margin-top: 0em;
   background-color:rgb(0, 0, 0);
-  width: 100%;
+ 
 }
 
 #container{
@@ -48,8 +48,7 @@ footer{
     background-color:rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     padding: 0.5em; /* EM square */
-    margin-top:0em; 
-    width: 100%;
+    margin-top:0em;
     }
 
 footer a{
