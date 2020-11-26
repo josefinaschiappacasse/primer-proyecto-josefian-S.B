@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap'); 
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Source+Sans+Pro:wght@300&display=swap');
-/*'https://fonts.googleapis.com/css2?family=Anton&display=swap'*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 body{
   background-color:white;
@@ -31,7 +31,8 @@ header{
   padding: 5px 80px;
 }
 
-img{padding:4px;
+img{
+  padding:4px;
 }
 
 #container{
@@ -42,11 +43,11 @@ img{padding:4px;
 h1{
   font-size: 40px;
   color:rgb(255, 255, 255);
- } 
+}
 
 h2{
   color: rgb(0, 0, 0);
-  font-size: 17px;
+  font-size: 13px;
 }
 
 p{color:rgb(0, 0, 0); 
